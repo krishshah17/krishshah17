@@ -1,7 +1,7 @@
 - 👋 Hi, I’m krish shah
 - 👀 I’m interested in Photography, Baking, Coding and Automating things
 - 🌱 I’m currently learning python and about microcontrollers 
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate on Automation, Python and Java Projects. 
 - 📫 How to reach me: @krishshah17 on instagram and twitter
 
 <!---
